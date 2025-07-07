@@ -1,0 +1,22 @@
+{
+  "id": "0x25E1d70312CB9E2807B9d62f2171cb08061d8c23",
+  "symbol": "TRXY",
+  "name": "Tracey Token",
+  "description": "Tracey Token (TRXY) powers Tracey AI's on-chain research and verification layer.",
+  "website": "https://www.gettracey.ai",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "abilash@tracey.dev",
+    "telegram": "https://t.me/traceyai",
+    "reddit": "https://www.reddit.com/r/TraceyAI/",
+    "medium": "https://medium.com/@traceyai",
+    "youtube": "",
+    "twitter": "https://twitter.com/GetTraceyAI",
+    "facebook": "",
+    "github": "https://github.com/traceyai",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
