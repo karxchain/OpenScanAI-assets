@@ -40,5 +40,23 @@
     },
     {
         "0xe0e1198BE845Cd996bfBDd680cEdE44904F567d7": "FDPConnect"
+    },
+    {
+        "0x4F9356BE0Ea5835C99c86d18BA5906620FB8170": "ROXN Treasury & Contributors"
+    },
+    {
+        "0x4ac682cF0d2500AB17cD21c35B27AcDDcBB27bE2": "ROXN Liquidity & Staking"
+    },
+    {
+        "0x489e0DC59A3C92b499f21Be01fd6257176": "ROXN Team Vesting - Sablier"
+    },
+    {
+        "0xD5136BEE9f093C3920BDC22e9918ed41a02731E6": "ROXN Marketing & Growth"
+    },
+    {
+        "0xEC9985647b3Ac6Fb13d57C7C0C31F37": "ROXN Reserve Fund - Locked"
+    },
+    {
+        "0xF0Cb9eD1AcCcd88E0f2C9d0bBE6F3a7C9": "ROXN Presale Contract"
     }
 ]
