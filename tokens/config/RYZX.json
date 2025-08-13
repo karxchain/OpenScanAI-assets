@@ -1,0 +1,20 @@
+{
+    "id":"0x9b75fF79Bdd37E75374BDF78092138eD39A01745",
+  "symbol": "RYZX",
+  "name": "Ryzer",
+  "decimals": 18,
+  "description": "Ryzer is an asset-backed tokenization platform enabling the issuance and distribution of tokenized securities backed by real-world assets. It aims to transform investing by boosting efficiency, lowering entry barriers, and unlocking liquidity in traditionally illiquid assets.",
+  "website": "https://ryzer.app/",
+  "auditReport": {
+    "name": "Solidity Scan Audit",
+    "url": "https://solidityscan.com/report/project/fb084549e110a9359bfdcf86add2c65e/d31cf5ad9a96d8b4"
+  },
+  "communities": {
+    "email": "hello@ryzer.app",
+    "telegram": "https://telegram.me/ryzer_official",
+    "medium": "https://medium.com/@ryzerapp",
+    "twitter": "https://x.com/Ryzer_app",
+    "linkedin": "https://www.linkedin.com/company/ryzerapp/",
+    "discord": "https://discord.gg/y74fkDXY3s"
+  }
+}
