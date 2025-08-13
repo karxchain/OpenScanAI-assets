@@ -1,0 +1,23 @@
+{
+  "id": "0x113B3fB9d3ab4D02057313f9729B5F2F92491313",
+  "symbol": "IAM",
+  "name": "NUVOWallet",
+  "description": "NUVOWallet's XRC20 Token, NUVOWallet is working towards Healthcare and Financial Inclusion for 950+ million Indians. NUVOWallet Introduces Trust Framework with Soul-Bound Tokens (SBT) and Verifiable Credentials on XDC Mainnet.",
+  "website": "https://nuvowallet.io",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "nuvowalletio@outlook.com",
+    "telegram": "",
+    "reddit": "",
+    "medium": "",
+    "linkedin": "https://linkedin.com/company/nuvowallet",
+    "youtube": "https://youtube.com/@nuvowallet",
+    "twitter": "https://twitter.com/nuvowallet",
+    "facebook": "",
+    "github": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
