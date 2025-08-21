@@ -1,11 +1,12 @@
 {
   "id": "0xbe5d088F00BD35b71A69f2714d13194444ec309D",
   "symbol": "fdp",
-  "name": "FDPToken",
+  "name": "FDP Token",
   "description": "FDP Token enables secure and efficient management of E Bill of Lading (eBL) documents on the blockchain.\nThis provides digital context for trade workflows and enhances transparency in global logistics.",
   "website": "https://www.autom-axis.com/",
   "auditReport": {},
   "logo":"https://appfdpapi.fdpconnect.com/public/uploads/cargomen/fdp.png",
+  "explorer": "https://xdcscan.com/token/0xbe5d088F00BD35b71A69f2714d13194444ec309D",
   "communities": {
     "email": "pratik@autom-axis.com",
     "telegram": "",
