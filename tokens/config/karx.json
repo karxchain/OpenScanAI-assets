@@ -1,0 +1,23 @@
+{
+  "id": "0x8f864122aec1908855ce9bab1bd46356c2372237",
+  "symbol": "KARX",
+  "name": "Karx",
+  "decimals": 18,
+  "description": "KARX is the utility token that powers public infra for Digital Product Passport (DPP).",
+  "website": "https://www.karx.org",
+  "auditReport": {
+    "name": "",
+    "url": ""
+  },
+  "communities": {
+    "email": "hello@karx.org",
+    "telegram": "https://t.me/karxchain",
+    "medium": "https://karxchain.medium.com/",
+    "twitter": "https://x.com/karxchain",
+    "linkedin": "https://www.linkedin.com/company/karpine",
+    "discord": "https://discord.com/invite/59EXxVH2mH",
+    "github": "https://github.com/karxchain",
+    "coinmarketcap": "",
+    "coingecko": ""
+  }
+}
